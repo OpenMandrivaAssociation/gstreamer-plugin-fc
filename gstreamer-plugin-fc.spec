@@ -47,3 +47,19 @@ rm -rf $RPM_BUILD_ROOT
 %{_libdir}/gstreamer-0.10/libgstfcdec.so
 
 
+
+
+%changelog
+* Sat Nov 05 2011 Götz Waschk <waschk@mandriva.org> 0.2-3mdv2012.0
++ Revision: 718899
+- rebuild
+
+* Fri Nov 05 2010 Funda Wang <fwang@mandriva.org> 0.2-2mdv2011.0
++ Revision: 593559
+- rebuild for gstreamer provides
+
+* Tue Jul 27 2010 Götz Waschk <waschk@mandriva.org> 0.2-1mdv2011.0
++ Revision: 561326
+- import gstreamer-plugin-fc
+
+
