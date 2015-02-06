@@ -1,5 +1,5 @@
 %define version 0.2
-%define release %mkrel 3
+%define release 4
 
 Name: gstreamer-plugin-fc
 Summary: Future Composer plugin for GStreamer
